@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Education Social Media Application **[Seekho](https://)**
+- 🔭 I’m currently working on a project Education Social Media Application **[Seekho](https://)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
