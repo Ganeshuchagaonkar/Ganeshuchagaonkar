@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a project Education Social Media Application **[Seekho](https://)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Node.js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ganesh04gmu@gmail.com**
 
-- ⚡ Fun fact **I loveReading Books and Travelling**
+- ⚡ Fun fact **I love Reading Books and Travelling**
 
 ## 🚀 Languages and Tools:
 
