@@ -29,10 +29,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/344/arduino.png" alt="express" width="40" height="40"/> </a>
+     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/344/arduino.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/color/344/raspberry-pi.png" alt="express" width="40" height="40"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/344/flutter.png" alt="express" width="40" height="40"/></a>   
 </p>
@@ -44,7 +42,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ganesh-Uchagaonkar/github-readme-stats"><img alt="Ganesh Uchagaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Uchagaonkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--     <a href="https://github.com/Ganesh-Uchagaonkar/github-readme-stats"><img alt="Ganesh Uchagaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Uchagaonkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ganesh-Uchagaonkar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Uchagaonkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
@@ -54,7 +52,7 @@
 
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me:
 <p align="left">
