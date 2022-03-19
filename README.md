@@ -58,7 +58,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ganesh-uchagaonkar-1830b6200//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/gautamp08347535"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+ <a href = "https://"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/g.a.n.e.s.h_uchagaonkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://youtube.com/channel/UCoKFtaERGBsamT8JYJmkK_w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> 
 
