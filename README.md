@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="#" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="cover.png" height="175px"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ganesh Uchgaonkar</h1>
