@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
 
-- 📫 How to reach me **ganesh04gmu.com**
+- 📫 How to reach me **ganesh04gmu@gmail.com**
 
 - ⚡ Fun fact **I loveReading Books and Travelling**
 
@@ -49,7 +49,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/patil-gau/github-readme-stats"><img alt="Gautam Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=patil-gau&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/patil-gau/github-readme-stats"><img alt="Ganesh Uchagaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=patil-gau&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/patil-gau/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-gau&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
