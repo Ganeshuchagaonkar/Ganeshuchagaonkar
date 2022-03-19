@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="cover.png" height="175px"/></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gautam Patil</h1>
-<h3 align="center">I am ambitious Full Stack and IOT Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ganesh Uchgaonkar</h1>
+<h3 align="center">I am ambitious Frontend Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
 
-- 📫 How to reach me **patilgautam728@gmail.com**
+- 📫 How to reach me **ganesh04gmu.com**
 
-- ⚡ Fun fact **I love Doing Workout,Reading Books and Travelling**
+- ⚡ Fun fact **I loveReading Books and Travelling**
 
 ## 🚀 Languages and Tools:
 
