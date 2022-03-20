@@ -42,8 +42,8 @@
 ## 📊 My Github Stats
 
   <br/>
-<!--     <a href="https://github.com/Ganesh-Uchagaonkar/github-readme-stats"><img alt="Ganesh Uchagaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Uchagaonkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ganesh-Uchagaonkar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Uchagaonkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ganeshuchagaonkar/github-readme-stats"><img alt="Ganesh Uchagaonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganeshuchagaonkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ganeshuchagaonkar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshuchagaonkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
@@ -65,7 +65,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Ganesh-Uchagaonkar/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ganesh-Uchagaonkar">
+<a href="https://github.com/Ganeshuchagaonkar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ganeshuchagaonkar">
 </a>
-<a href="https://github.com/Ganesh-Uchagaonkar?tab=followers"><img src="https://img.shields.io/github/followers/Ganesh-Uchagaonkar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ganeshuchagaonkar?tab=followers"><img src="https://img.shields.io/github/followers/Ganeshuchagaonkar?label=Followers&style=social" alt="GitHub Badge"></a>
